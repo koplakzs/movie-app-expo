@@ -6,9 +6,9 @@ export default () => {
       <Tabs.Screen
         name="home"
         options={{
-          headerTitle: "Home",
+          headerTitle: "Movie",
           headerTitleAlign: "center",
-          tabBarLabel: "Home",
+          tabBarLabel: "Movie",
           headerStatusBarHeight: 0,
         }}
       />
